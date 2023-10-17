@@ -1,5 +1,8 @@
 import java.util.Scanner;
 
+//Adding the odd numbers from right to left with the numbers with double the even numbers should give a number that is divisible
+//by 10 (Lunh's Algorithm)
+//This program does not check if the credit card number is valid within a certain bank
 class Main{
     public static void main(String[] args){
         Scanner input = new Scanner (System.in);
